@@ -33,12 +33,12 @@ Digital holography uses the intersection of two images produced by different lig
 
 - **Figures & Images:**  
   - **Raw and Processed Images:**  
-    - [detectedLines.png](detectedLines.png) – Shows the detected lines in the image used for alignment or interference pattern formation.
-    - [output.png](output.png) – The final processed output after noise reduction and phase mapping.
+    - ![detectedLines.png](detectedLines.png) – Shows the detected lines in the image used for alignment or interference pattern formation.
+    - ![output.png](output.png) – The final processed output after noise reduction and phase mapping.
   - **Holographic Reconstructions:**  
-    - [h_res1.png](h_res1.png), [h_res2.png](h_res2.png), [h_res3.png](h_res3.png) – Different stages of the holographic reconstruction process.
+    - ![h_res1.png](h_res1.png), [h_res2.png](h_res2.png), [h_res3.png](h_res3.png) – Different stages of the holographic reconstruction process.
   - **Additional Data:**  
-    - [size.jpg](size.jpg) – Provides the size reference used during image processing.
+    - ![size.jpg](size.jpg) – Provides the size reference used during image processing.
 
 - **Interactive HTML Files:**  
   The HTML files ([fig.html](fig.html), [fig1.html](fig1.html), [fig2.html](fig2.html)) include embedded Plotly configurations (see the script tag in each file) allowing dynamic visualization of the holography data, matching the chosen interference and reconstruction schemes.
